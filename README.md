@@ -12,7 +12,7 @@ By arming you with comprehensive career prep skills and offering you a family-li
 
 [Tech Resumes Overview](tech-resume-readme.md)
 
-1. [Personal Profile](personal profile.md) <br>
+1. [Personal Profile](personalprofile.md) <br>
 2. [Projects](projects.md) <br>
 3. [Education](education.md) <br>
 4. [Technical Experience](technicalexperience.md) <br>
