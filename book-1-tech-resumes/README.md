@@ -11,8 +11,9 @@ Click [here](https://docs.google.com/document/d/164kmGef9D-vU9bGbme7YeEmmRFDCmA2
 ### Tech Resume Chapters
 
 1. [Personal Profile](/book-1-tech-resumes/personalprofile.md) 
-2. Projets 
-3. Education 
-4. Technical Experience
-5. Work Experience  
-6. Canva
+2. [Projets](/book-1-tech-resumes/projects.md) 
+3. [Education](/book-1-tech-resumes/education.md) 
+4. [Technical Experience](/book-1-tech-resumes/technicalexperience.md)
+5. [Work Experience](/book-1-tech-resumes/workexperience.md)  
+6. [Canva](/book-1-tech-resumes/canva.md)
+
