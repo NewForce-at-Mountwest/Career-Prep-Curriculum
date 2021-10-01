@@ -10,7 +10,7 @@ Click [here](https://docs.google.com/document/d/164kmGef9D-vU9bGbme7YeEmmRFDCmA2
 
 ### Tech Resume Chapters
 
-1. [Personal Profile](/personalprofile.md) 
+1. [Personal Profile](/book-1-tech-resumes/personalprofile.md) 
 2. Projets 
 3. Education 
 4. Technical Experience
