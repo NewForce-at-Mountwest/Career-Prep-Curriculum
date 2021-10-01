@@ -12,5 +12,7 @@ By arming you with comprehensive career prep skills and offering you a family-li
 
 ## Table of Contents
 
-[book-1-tech-resumes](/book-1-tech-resumes)
+- [book-1-tech-resumes](/book-1-tech-resumes)
+- [book-2-headshots](book-2-headshots)
+- 
 

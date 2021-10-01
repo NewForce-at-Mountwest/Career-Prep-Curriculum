@@ -1,6 +1,4 @@
-# Headshots
 
-Each Cohort gets professional headshots taken. These headshots will be used in your LinkedIn profile, NewForce promotional materials, and the NewForce website. You will have access to your headshot shortly after having it taken. We promise we will give you a hearty heads up before these are scheduled.
 
 When choosing your headshot outfit, pick something that makes you feel confident. Avoid bold patterns that detract from the purpose of the photo, which is you. Pick something that’s classic or timeless.
 
