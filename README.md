@@ -1,4 +1,6 @@
-Welcome to your NewForce Career Prep Guide! This guide includes all of the steps NewForce students take to prepare them to apply for jobs in software development. Just like our classroom curriculum, we rely on feedback from our employer partners to ensure students are prepared to tackle the job search. 
+# Welcome to your NewForce Career Prep Guide! 
+
+This guide includes all of the steps NewForce students take to prepare them to apply for jobs in software development. Just like our classroom curriculum, we rely on feedback from our employer partners to ensure students are prepared to tackle the job search. 
 
 This guide will be completed over your six-months at NewForce. This is a comprehensive reference packed with instructions and examples to make this process easier. 
 
@@ -14,5 +16,4 @@ By arming you with comprehensive career prep skills and offering you a family-li
 
 - [book-1-tech-resumes](/book-1-tech-resumes)
 - [book-2-headshots](book-2-headshots)
-- 
-
+- [book-3-linkedin](/book-3-linkedin)
