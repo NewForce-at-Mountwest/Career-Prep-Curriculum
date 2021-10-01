@@ -10,12 +10,7 @@ Most importantly, we are your biggest cheerleaders. We will be there to help you
 
 By arming you with comprehensive career prep skills and offering you a family-like support system, our aim is to set you up for all the success.
 
-[Tech Resumes Overview](tech-resume-readme.md)
+## Table of Contents
 
-1. [Personal Profile](personalprofile.md) <br>
-2. [Projects](projects.md) <br>
-3. [Education](education.md) <br>
-4. [Technical Experience](technicalexperience.md) <br>
-5. [Work Experience](workexperience.md) <br>
-6. [Canva](canva.md) 
+[book-1-tech-resumes](/book-1-tech-resumes)
 
