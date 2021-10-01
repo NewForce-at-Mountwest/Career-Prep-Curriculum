@@ -8,5 +8,5 @@ Do not put your headshot on your resume. Why? When hiring, recruiters are traine
 
 ### Need a temporary headshot until professional ones are taken? Here are some helpful tips for taking your own! 
 
-- [Phone Headshot](https://www.youtube.com/watch?v=rgj-w_iyTGM https://kickpoint.ca/how-to-take-a-decent-head-shot-using-your-phone/) 
+- [Phone Headshot](https://www.youtube.com/watch?v=rgj-w_iyTGM) 
 - [Camera Headshot](https://blog.hubspot.com/marketing/professional-headshot-tips-for-budget)
