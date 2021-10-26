@@ -18,7 +18,7 @@ Canva Resume:
    6. [Template 6](https://www.canva.com/design/DAEten5fs8M/share/preview?token=7AajeUQnHTBu0j7RiKSV-g&role=EDITOR&utm_content=DAEten5fs8M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (one column) 
    7. [Template 7](https://www.canva.com/design/DAEteltW-8M/share/preview?token=MqZ2_p04xPgmsJnL3xUKLg&role=EDITOR&utm_content=DAEteltW-8M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (one column) 
    8. Make a copy of the template by going to FILE, selecting MAKE A COPY, and renaming it 
-      1. **Pease do not edit one of the original templates** 
+      1. **Please do not edit one of the original templates** 
    9. Start plugging in your information from your resume Google Doc! 
       1. Make sure to **copy and paste** so you still have your resume text in your Google Doc. You’ll want this when we move to LinkedIn.
    10. Send Courtney an editable link to your Canva resume
