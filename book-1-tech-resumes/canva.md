@@ -6,21 +6,23 @@ We’ve developed some design templates in Canva. Feel free to use these as a st
 
 Do not put your headshot on your resume. Why? When hiring, recruiters are trained to remain bias-free, and sending a resume with a picture of you compromises this. Some companies will throw out all resumes with photos to ensure a fair hiring process. A headshot will also detract from your listed experience. If they want to know more about you, they can visit your LinkedIn profile on your resume. If that weren’t enough, headshots aren’t ATS (Applicant Tracking System) friendly. More on the evil ATS later. 
 
-### Canva Resume: 
+Canva Resume:
 
 1. Create a Canva account by visiting [Canva.com](http://canva.com) 
 2. Select a template
-   1. [Template 1](https://www.canva.com/design/DAEUSMJyYTo/share/preview?token=g0qIuvb7OI6YGGZGPaSZgA&role=EDITOR&utm_content=DAEUSMJyYTo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)[ ](https://www.canva.com/design/DAERoEeyhQw/share/preview?token=5JRcyOLqkJAlcKfzsaCSAA&role=EDITOR&utm_content=DAERoEeyhQw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-   2. [Template 2](https://www.canva.com/design/DAESqk0ANTI/share/preview?token=6Db_Tr7tkAnBtA17SAZpLQ&role=EDITOR&utm_content=DAESqk0ANTI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-   3. [Template 3](https://www.canva.com/design/DAERuhfk2zU/share/preview?token=bAshcZ6o5RGWT39Z-AN4Mw&role=EDITOR&utm_content=DAERuhfk2zU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-   4. [Template 4](https://www.canva.com/design/DAEVjv0Of_g/share/preview?token=ORR4aCbWHnhGAw9LDY1VgA&role=EDITOR&utm_content=DAEVjv0Of_g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-   5. [Template 5](https://www.canva.com/design/DAESSTooHxA/share/preview?token=XV1UL1RD2GSUS-bGmZzBQg&role=EDITOR&utm_content=DAESSTooHxA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (Best for a one-page resume) 
-3. Make a copy of the template by going to FILE, selecting MAKE A COPY, and renaming it 
-   1. **Please do not edit one of the original templates** 
-4. Send Courtney an editable link to your Canva resume
-   1. This will come in handy if you need help with spacing, wording, etc. This will also allow Jordan to help with tech edits later in the semester. We won’t adjust anything without your approval. 
-5. Start plugging in your information from your resume Google Doc! 
-   1. Make sure to **copy and paste** so you still have your resume text in your Google Doc. You’ll want this when we move to LinkedIn.
+   1. [Template 1](https://www.canva.com/design/DAEUSMJyYTo/share/preview?token=g0qIuvb7OI6YGGZGPaSZgA&role=EDITOR&utm_content=DAEUSMJyYTo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)[ ](https://www.canva.com/design/DAERoEeyhQw/share/preview?token=5JRcyOLqkJAlcKfzsaCSAA&role=EDITOR&utm_content=DAERoEeyhQw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (two columns)
+   2.  [Template 2](https://www.canva.com/design/DAESqk0ANTI/share/preview?token=6Db_Tr7tkAnBtA17SAZpLQ&role=EDITOR&utm_content=DAESqk0ANTI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (one column)
+   3. [Template 3](https://www.canva.com/design/DAERuhfk2zU/share/preview?token=bAshcZ6o5RGWT39Z-AN4Mw&role=EDITOR&utm_content=DAERuhfk2zU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (two columns) 
+   4. [Template 4](https://www.canva.com/design/DAEVjv0Of_g/share/preview?token=ORR4aCbWHnhGAw9LDY1VgA&role=EDITOR&utm_content=DAEVjv0Of_g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (two columns) 
+   5. [Template 5](https://www.canva.com/design/DAESSTooHxA/share/preview?token=XV1UL1RD2GSUS-bGmZzBQg&role=EDITOR&utm_content=DAESSTooHxA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (two columns; best for a one-page resume) 
+   6. [Template 6](https://www.canva.com/design/DAEten5fs8M/share/preview?token=7AajeUQnHTBu0j7RiKSV-g&role=EDITOR&utm_content=DAEten5fs8M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (one column) 
+   7. [Template 7](https://www.canva.com/design/DAEteltW-8M/share/preview?token=MqZ2_p04xPgmsJnL3xUKLg&role=EDITOR&utm_content=DAEteltW-8M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (one column) 
+   8. Make a copy of the template by going to FILE, selecting MAKE A COPY, and renaming it 
+      1. **Pease do not edit one of the original templates** 
+   9. Start plugging in your information from your resume Google Doc! 
+      1. Make sure to **copy and paste** so you still have your resume text in your Google Doc. You’ll want this when we move to LinkedIn.
+   10. Send Courtney an editable link to your Canva resume
+       1. This will come in handy if you need help with spacing, wording, etc. This will also allow Jordan to help with tech edits later in the semester. We won’t adjust anything without your approval. 
 
 ### Need to see something from Courtney’s Canva talk again?
 
