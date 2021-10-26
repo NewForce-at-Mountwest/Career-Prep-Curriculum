@@ -2,15 +2,17 @@
 
 ### Follow the steps below to build or edit your LinkedIn profile: 
 
-Add updating resume 
-
 - [ ] **Profile Picture** - Your picture should be of just you. 
   - [ ] Select a picture with a simple background that isn’t distracting 		
   - [ ] A picture that shows your face clearly is best		
   - [ ] Think professional but it doesn’t have to be formal
-- [ ] **Background Image** - Pick something you are connected with (i.e. technology, nature, etc. but keep it professional and not distracting from the rest of your profile).
+  
+- [ ] **Background Image** - Pick something you are connected with (i.e. technology, nature, etc. but keep it professional and not distracting from the rest of your profile)
+
 - [ ] **Headline** - Junior Full Stack Developer
+
 - [ ] **Contact Information** - Include link to Github profile as your website
+
 - [ ] **Edit URL** - Simple URL 
   - [ ] Click the Me icon at the top of your LinkedIn homepage
   - [ ] Click view profile
@@ -22,6 +24,7 @@ Add updating resume
   - [ ] Click Save
 
 - [ ] **About** - Include your Personal Profile from your resume here! You have more space to add other things, too. Anything you felt like you left out in your resume summary that you want to add here? This is your opportunity to expand a bit.
+
 - [ ] **Experience** - Add NewForce
   - [ ] Use the full description from your resume, including the NewForce paragraph and bullet points. Make sure the bullet points from your resume are also formatted as bullet points on LinkedIn so they are skim-friendly. Because you haven’t finished the NewForce curriculum, use these bullet points for your LinkedIn:
     - [ ] Apply object-oriented programming fundamentals through team-based projects that reflect real world business problems
@@ -35,6 +38,7 @@ Add updating resume
 
 - [ ]  **Experience** - Add past work experience by copying and pasting from your Resume Text Doc. 
   - [ ] Make sure these are formatted as bullet points so they are skim-friendly. 
+  
 - [ ] **Projects** - Add Projects feature to your LinkedIn profile to highlight in detail your individual and group projects. Click the blue Add New Profile Section button when on your profile page. Then select Projects from the drop down. 
   - [ ] When writing your project descriptions, you can use what you’ve included on your resume. Make sure your description for both your LinkedIn and Resume includes:
     - [ ] What problem does your app solve?
@@ -42,7 +46,15 @@ Add updating resume
     - [ ] What features are included in your app?
     - [ ] What technologies did you use?
   - [ ] Do NOT add the link(s) until you’ve got a good README in the repository and have made sure that it’s fully functional and bug-free. Use the link to the deployed application if at all possible.
+  
 - [ ] **Education** - Add the NewForce paragraph description from your resume in education: 
   - [ ] Intensive full-time 6-month software development immersive training program focusing on full stack (C#/.NET) development fundamentals and problem solving. The final half of the program executed in a simulated company environment with Scrum methodology. 
+  
 - [ ] **Education** - Add All Education (copy and paste from your resume) 
+
+  
+
+- [ ] ### **Reminder Post-Graduation**
+
+  - [ ] **When you gain more work experience, always remember to update your LinkedIn and resume!** 
 
