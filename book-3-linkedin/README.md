@@ -6,3 +6,7 @@ For an example on LinkedIn, so you can see how all of these pieces come together
 
 - [build-your-linkedin-profile](/book-3-linkedin/build-your-linkedin-profile.md)
 
+- [im-on-linkedin-what-now](/book-3-linkedin/im-on-linkedin-what-now.md)
+
+  
+
