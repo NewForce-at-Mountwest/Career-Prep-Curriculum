@@ -29,11 +29,12 @@
 
 1. Are You An Introvert & Does This All Sound Terrible? 
    1. You're not alone. You have the control to network at your own pace. While the above is a guideline to stay active and be seen on LinkedIn, do what makes you feel comfortable. 
-2. What's the difference between networking and bragging about myself?
-3. I'm feeling super into this networking thing and I'm ready to do more. What can I do?
+2. What's the difference between self-promotion and bragging?
+   1. Bragging is exaggerating your achievements. Self-promotion is stating the facts. A theme you're hear a lot while working on career prep at NewForce is credit where credit is due. If you're stating the facts about your amazing accomplishments and your strengths, you're sharing you with your network. You deserve to be seen! 
+3. I'm feeling super into this networking on LinkedIn thing, and I'm ready to do more. What can I do?
 
-   1. [Publish your own article](https://www.linkedin.com/help/linkedin/answer/47537/tips-for-writing-articles-on-linkedin?lang=en) 
-   2. [Attend virtual online events](https://www.linkedin.com/help/linkedin/answer/123814/find-events-on-linkedin?lang=en) 
+   1. [Publish your own relevant article](https://www.linkedin.com/help/linkedin/answer/47537/tips-for-writing-articles-on-linkedin?lang=en) 
+   2. [Attend relevant virtual online events](https://www.linkedin.com/help/linkedin/answer/123814/find-events-on-linkedin?lang=en) 
 4. If you ever get stuck on wording or next steps, reach out to your NewForce staffers who can help guide you through the process. We're here for ya! 
 5. Remember to speellchcek! 
 
