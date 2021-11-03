@@ -2,10 +2,10 @@
 
 ## Build Your Network
 
-1. Connect with your cohort
+1. Connect and engage with your cohort
 2. Connect / reconnect with people you know
-   1. People You May Know
-3. Join Groups on LinkedIn
+   1. Review your [People You May Know](https://www.linkedin.com/help/linkedin/answer/29/-people-you-may-know-feature-overview?lang=en) section and connect with people you know
+3. Join [Groups](https://www.linkedin.com/help/linkedin/answer/186) on LinkedIn 
 
 ## Stay Active 
 
@@ -30,7 +30,7 @@
 1. Are You An Introvert & Does This All Sound Terrible? 
    1. You're not alone. You have the control to network at your own pace. While the above is a guideline to stay active and be seen on LinkedIn, do what makes you feel comfortable. 
 2. What's the difference between self-promotion and bragging?
-   1. Bragging is exaggerating your achievements. Self-promotion is stating the facts. A theme you're hear a lot while working on career prep at NewForce is credit where credit is due. If you're stating the facts about your amazing accomplishments and your strengths, you're sharing you with your network. You deserve to be seen! 
+   1. Bragging is exaggerating your achievements. Self-promotion is stating the facts. A theme you'll hear a lot while working on career prep at NewForce is credit where credit is due. If you're stating the facts about your amazing accomplishments and your strengths, you're sharing *you* with your network. You deserve to be seen! 
 3. I'm feeling super into this networking on LinkedIn thing, and I'm ready to do more. What can I do?
 
    1. [Publish your own relevant article](https://www.linkedin.com/help/linkedin/answer/47537/tips-for-writing-articles-on-linkedin?lang=en) 
