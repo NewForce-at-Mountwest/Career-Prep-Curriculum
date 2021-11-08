@@ -69,7 +69,7 @@ This is how every interview ends so be prepared with a few questions for them to
 
   **What if they ask me a question I don’t know the answer to?**
 
-  Be honest and then reframe! *While I’m not entirely sure, I know that I can search for the answer….One example of how I’ve done this in the past was when I was working on a project with a team at NewForce…*A great software development reframe is:I can learn independentlyI know where to find answers to learn more
+  Be honest and then reframe! *While I’m not entirely sure, I know that I can search for the answer….One example of how I’ve done this in the past was when I was working on a project with a team at NewForce…*A great software development reframe is: I can learn independently, and I know where to find answers to learn more
 
   Here are some [additional questions](https://docs.google.com/document/d/1EQjBdcRLHtmVrEc_C2wu87HD79r4JFZq8JpF1wBQp48/edit?usp=sharing). Feel free to give it a look over. You do not have to prep any or all of these, it’s just an additional resource. 
 
