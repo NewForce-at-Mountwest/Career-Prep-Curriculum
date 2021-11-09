@@ -6,6 +6,7 @@
   - [ ] Select a picture with a simple background that isn’t distracting 		
   - [ ] A picture that shows your face clearly is best		
   - [ ] Think professional but it doesn’t have to be formal
+  - [ ] Check out our [Headshot section for more information](/book-2-headshots/README.md) 
   
 - [ ] **Background Image** - Pick something you are connected with (i.e. technology, nature, etc. but keep it professional and not distracting from the rest of your profile)
 
