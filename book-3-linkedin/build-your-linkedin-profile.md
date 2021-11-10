@@ -10,7 +10,7 @@
   
 - [ ] **Background Image** - Pick something you are connected with (i.e. technology, nature, etc. but keep it professional and not distracting from the rest of your profile)
 
-- [ ] **Headline** - Full-Stack Software Developer | React, JavaScript, HTML, CSS
+- [ ] **Headline** - Junior Full-Stack Software Developer | React, JavaScript, HTML, CSS
 
   - [ ] If you have more software related technologies that you're proficient in, add those, too
   - [ ] Avoid things like Word, Google Suite, etc. just coding technologies!
