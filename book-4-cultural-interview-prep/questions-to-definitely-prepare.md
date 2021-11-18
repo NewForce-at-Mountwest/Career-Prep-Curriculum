@@ -18,7 +18,7 @@ Don’t present your weakness as though you’ve fully solved it. That’s not t
 
 **“Why are you interested in this role?” Or “Why do you want to work for our company?”**<br>This is a great time to show that you’ve done some research about the role and the company. You also should, as always, be as truthful as possible. Why *do* you want this role? (“I need a job,” might be the honest answer, but is there any reason you want this job specifically?) For example, if you’re interviewing for a front end role and you liked working with React, you could say:
 
-*I’ve had some experience at NewForce working with React, and I really loved learning how frameworks like React work under the hood. I’m excited to keep learning and grow my skills as a front-end dev while helping clients.
+*I’ve had some experience at NewForce working with React, and I really loved learning how frameworks like React work under the hood. I’m excited to keep learning and grow my skills as a front-end dev while helping clients.*
 
 Or, if you’re interviewing for a company where you have some kind of related or adjacent experience, you could say:
 
@@ -26,7 +26,11 @@ Or, if you’re interviewing for a company where you have some kind of related o
 
 If you can’t think of a specific reason to be excited about this specific job, you can always say something generic like: 
 
-*I’m really excited to keep learning and growing as a software developer and this seems like a role where I could be part of a great team and learn X, Y, and Z.
+*I’m really excited to keep learning and growing as a software developer and this seems like a role where I could be part of a great team and learn X, Y, and Z.*
+
+In general, pick 3 to 4 contrete reasons you'd like to work for that company. Pull examples from either the job description or from the website. 
+
+
 
 Example:
 
