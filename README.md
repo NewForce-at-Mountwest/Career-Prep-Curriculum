@@ -20,4 +20,5 @@ By arming you with comprehensive career prep skills and offering you a family-li
 - [book-4-cultural-interview-prep](/book-4-cultural-interview-prep) 
 - [book-5-cover-letters](/book-5-cover-letters)
 - [book-6-tailoring-resume](/book-5-cover-letters/book-6-tailoring-resume/steps-to-tailoring-your-resume.md)
+- [book-7-virtual-interview-tips](/book-7-virtual-interview-tips)
 
