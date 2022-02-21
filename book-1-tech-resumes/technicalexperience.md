@@ -14,6 +14,6 @@ Intensive full-time 6-month software development immersive training program focu
 - Designed and built single-page kennel management application with React using Hooks
 - Designed applications through white boarding dependencies and building ERD’s
 - Built and interacted with databases using SQL and ADO.NET
-- Developed a blog management platform in ASP.NET, MVC, and Razor templates in Visual Studio 2019
+- Developed a blog management platform in ASP.NET, MVC, and Razor templates in Visual Studio 2022
 - Created RESTful Web API with C#/ .NET Core and connected it to a React front-end
 - Built and maintained integration tests in .NET Core
