@@ -7,7 +7,12 @@ Generally, the technical interview questions our grads have been ask fall into t
 ## Step One: 
 Know your resume backward and forward**<br>At a bare minimum, you should be able to talk about everything on your resume in detail, and give examples of times when you use it. You should prioritize this and practice talking about each bullet point until you’re comfortable with all of them. If there’s a bullet point you’re consistently uncomfortable with, you should talk to your instructors about removing it from your resume. We cannot stress enough the importance of this stuff. **Not being able to explain the stuff on your resume will get you an automatic no from most employers.** 
 
-If someone asks you a general question about NewForce (“What did you learn there?” “What the hell is NewForce?” “Was it a pyramid scheme?”) here are some highlights to hit in your answer to give yourself full credit:<br>	- NewForce is six months, full time, all day-- like a job <br>	- We learned front-end web development for the first three months (HTML, CSS, JavaScript, React)<br>	- We learned server-side development in C#/.NET for the last three months<br>	- Lots of group projects! We focused on practical application vs. theory. <br>	- Mock company environment, sprints, Agile methodology (Bangazon)<br>	- Remote work-- zoom and slack
+If someone asks you a general question about NewForce (“What did you learn there?” “What the hell is NewForce?” “Was it a pyramid scheme?”) here are some highlights to hit in your answer to give yourself full credit:<br>	
+- NewForce is six months, full time, all day-- like a job 
+- - We learned front-end web development for the first three months (HTML, CSS, JavaScript, React)<br>	
+- - We learned server-side development in C#/.NET for the last three months<br>	
+- - Lots of group projects! We focused on practical application vs. theory. <br>	- Mock company environment, sprints, Agile methodology (Bangazon)<br>	
+- - Remote work-- zoom and slack
 
 Here is the text we’ve asked you to put on your resume under the NewForce description, along with how you might talk about each bullet point if someone asked about it. (**Please don’t copy and paste all this onto your resume-- these are talking points.**)
 
