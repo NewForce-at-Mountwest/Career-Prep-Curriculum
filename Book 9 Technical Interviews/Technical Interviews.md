@@ -85,7 +85,8 @@ Once you feel comfortable talking about your resume, you should move onto prepar
 <br>These are questions where an interviewer might ask you to explain a concept in a language you know, or ask about a vocabulary term that may or may not be on your resume.<br>	
 - Interviewers usually use these to gauge what you know beyond what’s on your resume<br>	
 - If you know the answer, say *everything you know.* Talk their ear off! Be proud! <br>	
-- If you don’t, admit that you don’t know it and talk about something that sounds similar, or ask clarifying questions until you can find something similar to talk about. <br>	- Before an interview, google “Junior Developer interview questions [insert tech stack for the job you’re applying for here]”. You can bet that your interviewer is going to do the same thing. <br>	
+- If you don’t, admit that you don’t know it and talk about something that sounds similar, or ask clarifying questions until you can find something similar to talk about.
+- Before an interview, google “Junior Developer interview questions [insert tech stack for the job you’re applying for here]”. You can bet that your interviewer is going to do the same thing. 
 - [Here is a bank of conceptual questions that grads have been asked.](https://docs.google.com/document/d/1cWyaOhim1_ZcSAoXibMrDUey7_jdDb-dcfgMuOCpsX4/edit) You should know some of them, but not all. When we do mock technical interviews, I’ll pull from this bank of questions and ask you a couple from each category, plus a couple curve 			balls. 
 
 ### Coding/ whiteboard questions
