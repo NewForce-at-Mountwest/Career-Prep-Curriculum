@@ -4,8 +4,8 @@ Technical interviews can vary a lot from company to company, so it can be hard t
 
 Generally, the technical interview questions our grads have been ask fall into three buckets: <br>	1. Questions about your resume <br>	2. Questions about technical concepts <br>	3. Whiteboard/ coding questions
 
-## Step One: 
-Know your resume backward and forward. At a bare minimum, you should be able to talk about everything on your resume in detail, and give examples of times when you use it. You should prioritize this and practice talking about each bullet point until you’re comfortable with all of them. If there’s a bullet point you’re consistently uncomfortable with, you should talk to your instructors about removing it from your resume. We cannot stress enough the importance of this stuff. **Not being able to explain the stuff on your resume will get you an automatic no from most employers.** 
+## Step One: Know Your Resume
+At a minimum, you should be able to talk about everything on your resume at at least a high level and give examples of times when you use it. You should prioritize this and practice talking about each bullet point until you’re comfortable with all of them. If there’s a bullet point you’re consistently uncomfortable with, you should talk to your instructors about removing it from your resume. We cannot stress enough the importance of this stuff. **Not being able to explain the stuff on your resume will get you an automatic no from most employers.** 
 
 If someone asks you a general question about NewForce (“What did you learn there?” “What the hell is NewForce?” “Was it a pyramid scheme?”) here are some highlights to hit in your answer to give yourself full credit:<br>	
 - NewForce is six months, full time, all day-- like a job 
