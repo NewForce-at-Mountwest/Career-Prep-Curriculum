@@ -29,7 +29,7 @@ Intensive full-time 6-month software development immersive training program focu
 
 **Collaborated remotely on projects using Slack and Zoom**
 - Talk about working remotely-- what was hard about it, what you liked about it, what you learned about how to stay productive when working from home
--
+
 **Managed source code version control with Git/ GitHub**
 - “Git is a version control system for tracking changes across your file tree. We used Git and GitHub to manage our source code on all our individual assignments, but it really came into play on group projects. I got really comfortable at branching off, making pull requests, and resolving merge conflicts.”
 - Project to mention: think about one where you ran into a problem with Git/GitHub and talk about how you resolved that problem
