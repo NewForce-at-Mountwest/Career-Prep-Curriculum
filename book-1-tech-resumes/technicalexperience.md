@@ -16,4 +16,4 @@ Intensive full-time 6-month software development immersive training program focu
 - Built and interacted with databases using SQL and ADO.NET
 - Developed a blog management platform in ASP.NET, MVC, and Razor templates in Visual Studio 2022
 - Created RESTful Web API with C#/ .NET Core and connected it to a React front-end
-- Built and maintained integration tests in .NET Core
+- Built and maintained unit tests in a .NET Web API
